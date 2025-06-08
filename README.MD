@@ -88,16 +88,17 @@ All decoders support interaction-aware prediction through:
 - Success Rate: Percentage of episodes reaching the goal
 
 # Results
-You can view the Agent Vehicle (AV) performing the 3 maneuvers here
-1. Unsignalized Intersection
-[Video 1](https://github.com/yourusername/yourrepository/blob/main/path/to/video1.webm)
 
-2. Merging
-[Video 2](https://github.com/yourusername/yourrepository/blob/main/path/to/video2.webm)
+You can view the Agent Vehicle (AV) performing the following 3 maneuvers:
 
-3. Overtaking
-[Video 3](https://github.com/yourusername/yourrepository/blob/main/path/to/video3.webm)
+1. **Unsignalized Intersection**  
+   [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/unsignalized_intersection.webm)
 
+2. **Merging**  
+   [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/merging.webm)
+
+3. **Overtaking**  
+   [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/overtaking.webm)
 
 # Setup and Installation
 
