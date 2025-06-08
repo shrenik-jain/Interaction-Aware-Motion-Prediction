@@ -87,7 +87,7 @@ All decoders support interaction-aware prediction through:
 - FDE (Final Displacement Error): L2 distance at final prediction step
 - Success Rate: Percentage of episodes reaching the goal
 
-# Results
+<!-- # Results
 
 You can view the Agent Vehicle (AV) performing the following 3 maneuvers:
 
@@ -98,7 +98,21 @@ You can view the Agent Vehicle (AV) performing the following 3 maneuvers:
    [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/merging.webm)
 
 3. **Overtaking**  
-   [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/overtaking.webm)
+   [Watch the video](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/overtaking.webm) -->
+
+# Results
+
+You can view the Agent Vehicle (AV) performing the following 3 maneuvers:
+
+1. **Unsignalized Intersection**  
+   [![Unsignalized Intersection](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/unsignalized_intersection_thumb.png)](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/unsignalized_intersection.webm)
+
+2. **Merging**  
+   [![Merging](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/merging_thumb.png)](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/merging.webm)
+
+3. **Overtaking**  
+   [![Overtaking](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/overtaking_thumb.png)](https://github.com/shrenik-jain/Interactive-Motion-Prediction/blob/main/docs/overtaking.webm)
+
 
 # Setup and Installation
 
