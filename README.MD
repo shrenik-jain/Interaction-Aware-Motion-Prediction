@@ -135,3 +135,6 @@ This setup will allow you to run the model with the desired decoder type.
 ├── source_installations.sh           
 └── start.sh                          
 ```
+
+# References
+[SMARTS](https://github.com/huawei-noah/SMARTS)
