@@ -2,6 +2,8 @@
 
 This repository contains the implementation for Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving. The work proposes an interaction-aware predictor to forecast neighboring agents' future trajectories conditioned on the ego vehicle's potential plans, integrated with a sampling-based planner for safe autonomous driving.
 
+You can find the demos [HERE](https://ucsdcloud-my.sharepoint.com/:f:/g/personal/bradhakrishnan_ucsd_edu/Ev6XNkPQg-FHjCx_9x4zKe8BISpsEbspAwbDCX8hKfhbFw?e=bmHJYE)
+
 # Framework Overview
 The framework consists of two main components:
 
